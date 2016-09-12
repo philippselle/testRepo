@@ -8,6 +8,8 @@ public class Main {
 
     if (true) {
       System.out.println("hi");
+    } else {
+      System.out.println("bye");
     }
 
 
